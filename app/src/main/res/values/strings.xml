@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labo 8</string>
+    <string name="test">test</string>
+    <string name="unitercm">CM</string>
+    <string name="convetiontest">0</string>
+    <string name="uniterdm">DM</string>
+    <string name="uniterm">M</string>
+    <string name="unitermm">MM</string>
+    <string name="uniterpouces">Pouces</string>
+    <string name="V18">18.0</string>
+    <string name="v180">180.0</string>
+    <string name="V1.8">1.8</string>
+    <string name="V.18">0.18</string>
+    <string name="V7.1">7.1</string>
+</resources>
